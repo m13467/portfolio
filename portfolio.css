@@ -1,0 +1,29 @@
+body {
+  background-color: #FFFF00;    /* Yellow?*/
+  text-align: center;
+}
+
+h1 {
+  background-color: #B2D6FF;    /* Light blue */
+  padding: 50px;
+}
+
+p {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.about {
+  text-decoration: italic;
+  color: #5D6063;    /* Dark gray */
+}
+
+#ex-list {
+  color: #ff0000;   /*red*/
+}
